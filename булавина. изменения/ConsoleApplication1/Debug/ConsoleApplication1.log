@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  ConsoleApplication1.cpp
+c:\users\artmi\desktop\kampykter\consoleapplication1\consoleapplication1\consoleapplication1.cpp(13): error C2079: 'lib' uses undefined class 'Library'
+c:\users\artmi\desktop\kampykter\consoleapplication1\consoleapplication1\consoleapplication1.cpp(65): error C2065: 'LibStorUnit': undeclared identifier
+c:\users\artmi\desktop\kampykter\consoleapplication1\consoleapplication1\consoleapplication1.cpp(65): error C2065: 'lsu': undeclared identifier
+c:\users\artmi\desktop\kampykter\consoleapplication1\consoleapplication1\consoleapplication1.cpp(66): error C2065: 'lsu': undeclared identifier
+c:\users\artmi\desktop\kampykter\consoleapplication1\consoleapplication1\consoleapplication1.cpp(67): error C2065: 'lsu': undeclared identifier
+c:\users\artmi\desktop\kampykter\consoleapplication1\consoleapplication1\consoleapplication1.cpp(71): error C2065: 'LibStorUnit': undeclared identifier
+c:\users\artmi\desktop\kampykter\consoleapplication1\consoleapplication1\consoleapplication1.cpp(71): error C2065: 'lsu': undeclared identifier
+c:\users\artmi\desktop\kampykter\consoleapplication1\consoleapplication1\consoleapplication1.cpp(72): error C2065: 'lsu': undeclared identifier
+c:\users\artmi\desktop\kampykter\consoleapplication1\consoleapplication1\consoleapplication1.cpp(168): error C3867: 'Library::ListReaders::searchReader': non-standard syntax; use '&' to create a pointer to member
